@@ -1,0 +1,18 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "OB1IV",
+      "url": "board-1-OB1IV.png",
+      "newShot": false,
+      "lastEdited": 1632959591453,
+      "layers": {},
+      "number": 1,
+      "shot": "1A",
+      "time": 0
+    }
+  ]
+}
