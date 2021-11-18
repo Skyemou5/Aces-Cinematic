@@ -6,13 +6,45 @@
       {
         "id": "1e51768a3d796902",
         "type": "leaf",
+        "dimension": 50.417827298050135,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Untitled 4.md",
+            "file": "Ideation/Untitled 2.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4624f5ecbf5264c7"
+      },
+      {
+        "id": "9977c0806fc1e8e7",
+        "type": "split",
+        "dimension": 49.58217270194986,
+        "children": [
+          {
+            "id": "9b40083016078ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideation/Untitled 2.md",
+                "mode": "preview"
+              }
+            },
+            "group": "4624f5ecbf5264c7"
+          },
+          {
+            "id": "b232a1d47dd3d652",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Untitled 4.md",
+                "file": "Ideation/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +120,10 @@
   },
   "active": "1e51768a3d796902",
   "lastOpenFiles": [
-    "Sources/Untitled 4.md",
-    "Ideation/Untitled 3.md",
     "Ideation/Untitled 2.md",
     "Documentation/Untitled 1.md",
+    "Ideation/Untitled 3.md",
+    "Attachment/ShipsSketches.jpg",
     "Attachment/Untitled.md",
     "Home.md"
   ]
