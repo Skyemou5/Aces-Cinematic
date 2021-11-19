@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideation/Untitled 2.md",
+            "file": "Concepts/Space Ship Concepts.md",
             "mode": "source"
           }
         },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideation/Untitled 2.md",
+                "file": "Concepts/Space Ship Concepts.md",
                 "mode": "preview"
               }
             },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideation/Untitled 2.md",
+                "file": "Concepts/Space Ship Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,11 +120,15 @@
   },
   "active": "1e51768a3d796902",
   "lastOpenFiles": [
+    "Concepts/Space Ship Concepts.md",
     "Ideation/Untitled 2.md",
-    "Documentation/Untitled 1.md",
-    "Ideation/Untitled 3.md",
+    "Attachment/Ship1.jpg",
+    "Attachment/Ship1_Process.jpg",
+    "Attachment/Ship2.jpg",
+    "Attachment/Ship3.jpg",
     "Attachment/ShipsSketches.jpg",
     "Attachment/Untitled.md",
-    "Home.md"
+    "Documentation/Untitled 1.md",
+    "Ideation/Untitled 3.md"
   ]
 }
