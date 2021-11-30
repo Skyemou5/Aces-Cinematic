@@ -1,72 +1,32 @@
 {
   "main": {
-    "id": "e2793a5e18142a90",
+    "id": "8743762ccc6f1f6b",
     "type": "split",
     "children": [
       {
-        "id": "1e51768a3d796902",
+        "id": "c2f99d6bc4c3e68a",
         "type": "leaf",
-        "dimension": 57.597402597402606,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Concepts/Space Ship Concepts.md",
+            "file": "Home.md",
             "mode": "source"
-=======
-            "file": "Attachment/ShipsSketches.jpg"
->>>>>>> Stashed changes
           }
-        },
-        "group": "4624f5ecbf5264c7"
-      },
-      {
-        "id": "9977c0806fc1e8e7",
-        "type": "split",
-        "dimension": 42.4025974025974,
-        "children": [
-          {
-            "id": "9b40083016078ff6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Concepts/Space Ship Concepts.md",
-                "mode": "preview"
-=======
-                "file": "Attachment/ShipsSketches.jpg"
->>>>>>> Stashed changes
-              }
-            },
-            "group": "4624f5ecbf5264c7"
-          },
-          {
-            "id": "b232a1d47dd3d652",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cae29101f8550564",
+    "id": "a916eea7038b5e89",
     "type": "split",
     "children": [
       {
-        "id": "e1390a7ce0fa29ab",
+        "id": "571dd8559389f142",
         "type": "tabs",
         "children": [
           {
-            "id": "9a46b26e6d29732f",
+            "id": "9551bf6345bc8cda",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,7 +34,7 @@
             }
           },
           {
-            "id": "da6b1ccc51c14b3a",
+            "id": "1b0ca317b8d82630",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,24 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "062a52fa1c7dd6a1",
+    "id": "2f86c92b87c08b8f",
     "type": "split",
     "children": [
       {
-        "id": "d7d8bc3a036f56f5",
+        "id": "da6a6945d4705e51",
         "type": "tabs",
         "children": [
           {
-            "id": "c30727260fdd5ccc",
+            "id": "899a0f13c28bc78b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Concepts/Space Ship Concepts.md",
-=======
-                "file": "Attachment/ShipsSketches.jpg",
->>>>>>> Stashed changes
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,26 +86,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e51768a3d796902",
+  "active": "c2f99d6bc4c3e68a",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Concepts/Space Ship Concepts.md",
+    "Home.md",
+    "Sources/Untitled 4.md",
     "Ideation/Untitled 2.md",
-    "Attachment/Ship1.jpg",
-    "Attachment/Ship1_Process.jpg",
-    "Attachment/Ship2.jpg",
-    "Attachment/Ship3.jpg",
-    "Attachment/ShipsSketches.jpg",
-    "Attachment/Untitled.md",
-    "Documentation/Untitled 1.md",
-    "Ideation/Untitled 3.md"
-=======
-    "Attachment/ShipsSketches.jpg",
-    "Attachment/Untitled.md",
     "Ideation/Untitled 3.md",
-    "Ideation/Untitled 2.md",
     "Documentation/Untitled 1.md",
-    "Home.md"
->>>>>>> Stashed changes
+    "Concepts/Space Ship Concepts.md"
   ]
 }

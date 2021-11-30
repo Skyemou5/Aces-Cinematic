@@ -343,7 +343,7 @@
       "shot": "18A",
       "time": 13600,
       "lineMileage": 11028.193742547424,
-      "duration": "500"
+      "duration": 530
     },
     {
       "uid": "0XWVZ",
@@ -357,7 +357,7 @@
       },
       "number": 19,
       "shot": "19A",
-      "time": 14100,
+      "time": 14130,
       "lineMileage": 2591.2263976851937,
       "duration": "200",
       "action": "more words"
@@ -374,7 +374,7 @@
       },
       "number": 20,
       "shot": "20A",
-      "time": 14300,
+      "time": 14330,
       "lineMileage": 7457.050493733397,
       "duration": "400",
       "action": "dogfight chase and target ship tumbles and explodes against the shield wall"
@@ -391,7 +391,7 @@
       },
       "number": 21,
       "shot": "21A",
-      "time": 14700,
+      "time": 14730,
       "lineMileage": 11650.310125109814,
       "duration": "200",
       "dialogue": "",
@@ -409,7 +409,7 @@
       },
       "number": 22,
       "shot": "22A",
-      "time": 14900,
+      "time": 14930,
       "lineMileage": 10002.276407961386,
       "duration": "200",
       "action": "planet weapon hits planet"
@@ -426,7 +426,7 @@
       },
       "number": 23,
       "shot": "23A",
-      "time": 15100,
+      "time": 15130,
       "lineMileage": 2568.067837985435,
       "duration": "200",
       "action": "more words"
@@ -443,7 +443,7 @@
       },
       "number": 24,
       "shot": "24A",
-      "time": 15300,
+      "time": 15330,
       "lineMileage": 10010.939691689337,
       "duration": "500",
       "action": "ship zooms around creating a tail and then the spaces aces logo appears with the trail as part of the A."
@@ -460,7 +460,7 @@
       },
       "number": 25,
       "shot": "25A",
-      "time": 15800,
+      "time": 15830,
       "lineMileage": 1601.1843442631823,
       "duration": "500",
       "action": "fade out"
@@ -477,7 +477,7 @@
       },
       "number": 26,
       "shot": "26A",
-      "time": 16300,
+      "time": 16330,
       "lineMileage": 820.3202781741711,
       "action": "credits"
     }
